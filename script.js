@@ -612,8 +612,8 @@ scene.add(planet);
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
   'Việt Nam',
-  "emhius",
-  "nhuw.yien ",
+  "emiss",
+  "lieunhuyen ",
   "14/04/2006",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
